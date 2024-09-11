@@ -116,4 +116,9 @@
     .table{
         width: 100%;
     }
+    .ss {
+        height: auto;
+        padding-top: 20px;
+        width: 80%;
+    }
 }

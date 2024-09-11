@@ -110,7 +110,7 @@ function Table({ bar, setBar }) {
                             </div>
                         </div>
                         <div className="table-informations">
-                            <div className="table-i-top krey">
+                            <div className="table-i-top">
                                 <p className='black-p-table' >Name</p>
                                 <p className='black-p-table' >Position</p>
                                 <p className='black-p-table' >Office</p>

@@ -23,6 +23,7 @@
 @media screen and (max-width:490px) {
   .app{
     background-color: #E2E8F0;
-    min-height: auto;
+    min-height: 100vh;
+    height: auto;
   }
 }
