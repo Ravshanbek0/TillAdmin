@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/gotham-9');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.container {
+  width: 1220px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid;
+}
+.app{
+  background-color: #E2E8F0;
+  height: 100vh;
+}
+
+@media screen and (max-width:490px) {
+  .app{
+    background-color: #E2E8F0;
+    min-height: auto;
+  }
+}
